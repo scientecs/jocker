@@ -1,0 +1,9 @@
+.error {
+    margin-top: 3px;
+    margin-bottom: 3px;
+    color:#EE1D1D;
+}
+
+.site-header > div > a {
+    padding-left: 10px;
+}
